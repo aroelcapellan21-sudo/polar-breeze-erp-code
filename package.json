@@ -1,0 +1,13 @@
+{
+  "name": "polar-breeze-erp-code",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Código de implementación del ERP Polar Breeze.",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
